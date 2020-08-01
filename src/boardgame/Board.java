@@ -69,9 +69,4 @@ public class Board {
 		}
 		return piece(position) != null;
 	}
-
-	public boolean thereIsAOpponentPiece(Position p) {
-		// TODO Auto-generated method stub
-		return false;
-	}
 }

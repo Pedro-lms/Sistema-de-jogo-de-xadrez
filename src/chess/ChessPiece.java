@@ -27,5 +27,4 @@ public abstract class ChessPiece extends Piece {
 		// TODO Auto-generated method stub
 		return null;
 	}
-
 }
